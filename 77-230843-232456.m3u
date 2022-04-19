@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 ,====== 港澳卫视： ======
+http://0/0.m3u8
+#EXTINF:-1 ,HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,無線新聞台
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+#EXTINF:-1 ,凤凰资讯台
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 ,凤凰香港
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 ,NOW新聞台
+https://ewcdnsite04.nowe.com/session/09-d8ec4e7efaf3511e89b957c013624/Content/HLS/LIVE/Channel(HLS_CH332N)/Stream(02)/index.m3u8
+#EXTINF:-1 ,NOW直播台
+https://ewcdnsite02.nowe.com/session/09-3af627f6a05b91f317cfe84495019/Content/HLS/LIVE/Channel(HLS_CH331)/Stream(02)/index.m3u8
+#EXTINF:-1 ,TVB Thai
+https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
+#EXTINF:-1 ,====== 央视频道： ======
+http://1/1.m3u8
+#EXTINF:-1 ,CCTV-1综合
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000210102.m3u8
+#EXTINF:-1 ,CCTV-2财经
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203602.m3u8
+#EXTINF:-1 ,CCTV-3综艺
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
+#EXTINF:-1 ,CCTV-4中文国际（亚）
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204802.m3u8
+#EXTINF:-1 ,CCTV-5体育
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000205102.m3u8
+#EXTINF:-1 ,CCTV-5+体育赛事
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204502.m3u8
+#EXTINF:-1 ,CCTV-6电影
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203302.m3u8
+#EXTINF:-1 ,CCTV-7国防军事
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000510002.m3u8
+#EXTINF:-1 ,CCTV-8电视剧
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203902.m3u8
+#EXTINF:-1 ,CCTV-9记录
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000499402.m3u8
+#EXTINF:-1 ,CCTV-10科教
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203502.m3u8
+#EXTINF:-1 ,CCTV-11戏曲
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204102.m3u8
+#EXTINF:-1 ,CCTV-12社会与法
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000202602.m3u8
+#EXTINF:-1 ,CCTV-13新闻
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204602.m3u8
+#EXTINF:-1 ,CCTV-4K
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+#EXTINF:-1 ,CCTV-GOLF
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512502.m3u8
+#EXTINF:-1 ,CCTV-风云足球
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514202.m3u8
+#EXTINF:-1 ,====== 深圳卫视： ======
+http://2/2.m3u8
+#EXTINF:-1 ,深圳都市
+https://sztv-live.cutv.com/ZwxzUXr/500/5uZx20U.m3u8
+#EXTINF:-1 ,深圳财经
+https://sztv-live.cutv.com/3vlcoxP/500/p1a3xl0.m3u8
+#EXTINF:-1 ,深圳体育
+https://sztv-live.cutv.com/sztvtyjk/500/u5t4x000.m3u8
+#EXTINF:-1 ,深圳公共
+https://sztv-live.cutv.com/2q76Sw2/500/f5k2x70.m3u8
+#EXTINF:-1 ,====== 国际频道： ======
+http://3/3.m3u8
+#EXTINF:-1 ,ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 ,ABC ME
+https://c.mjh.nz/101002210224
+#EXTINF:-1 ,ABC Kids
+https://c.mjh.nz/101002210222
+#EXTINF:-1 ,ABC TV Plus
+https://c.mjh.nz/abc2
+#EXTINF:-1 ,BBC News HD
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:-1 ,BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 ,DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 ,CNN NEWS
+http://1942468522.rsc.cdn77.org/wbYu6E4YHtNAmb-2U-OMyA==,1650393619/1942468522/index.m3u8
+#EXTINF:-1 ,Fox News(USA)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,CNBC
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
