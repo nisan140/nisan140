@@ -15,6 +15,10 @@ https://ewcdnsite07.nowe.com/session/09-f7d4149ae39611ee41c7530a38774/Content/HL
 https://ewcdnsite05.nowe.com/session/09-9b65e68fcf14bfdc8a42632d69b23/Content/HLS/LIVE/Channel(HLS_CH331)/index.m3u8
 #EXTINF:-1 ,TVB Thai
 https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
+#EXTINF:-1 ,香港電台TV31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 ,香港電台TV32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 ,====== 央视频道： ======
 http://1/1.m3u8
 #EXTINF:-1 ,CCTV-1综合
