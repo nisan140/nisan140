@@ -10,9 +10,9 @@ https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 ,凤凰香港
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 ,NOW新聞台
-https://ewcdnsite04.nowe.com/session/09-d8ec4e7efaf3511e89b957c013624/Content/HLS/LIVE/Channel(HLS_CH332N)/Stream(02)/index.m3u8
+https://ewcdnsite07.nowe.com/session/09-f7d4149ae39611ee41c7530a38774/Content/HLS/LIVE/Channel(HLS_CH332N)/index.m3u8
 #EXTINF:-1 ,NOW直播台
-https://ewcdnsite02.nowe.com/session/09-3af627f6a05b91f317cfe84495019/Content/HLS/LIVE/Channel(HLS_CH331)/Stream(02)/index.m3u8
+https://ewcdnsite05.nowe.com/session/09-9b65e68fcf14bfdc8a42632d69b23/Content/HLS/LIVE/Channel(HLS_CH331)/index.m3u8
 #EXTINF:-1 ,TVB Thai
 https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
 #EXTINF:-1 ,====== 央视频道： ======
