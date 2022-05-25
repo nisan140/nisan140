@@ -32,7 +32,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zt/playlist.m3u
 #EXTINF:-1 ,====== 央视频道： ======
 http://1/1.m3u8
 #EXTINF:-1 ,CCTV-1综合
-http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000210102.m3u8
+https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
 #EXTINF:-1 ,CCTV-2财经
 http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203602.m3u8
 #EXTINF:-1 ,CCTV-3综艺
